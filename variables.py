@@ -1,4 +1,4 @@
-#En esta clase aprenderé sobre vriables
+#En esta clase aprenderé sobre variables
 print("Sistema de mensajería")
 distancia_km = 40.7
 peso_kg = 2.0
